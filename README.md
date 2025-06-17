@@ -1,3 +1,3 @@
 ### Integrantes:
-Guilherme Perez Gomes - SC3044653<br>
-Maria Clara Passareli - SC3044289
+Guilherme Perez Gomes - SC----653<br>
+Maria Clara Passareli - SC----289
