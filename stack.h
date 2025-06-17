@@ -2,14 +2,14 @@
 #define STACK_H
 
 typedef struct {
-    int left;
-    int right;
+  int left;
+  int right;
 } StackItem;
 
 typedef struct {
-    StackItem* items;
-    int top;
-    int capacity;
+  StackItem* items;
+  int top;
+  int capacity;
 } t_stack;
 
 t_stack* createStack(int size);
