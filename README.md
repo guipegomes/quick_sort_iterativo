@@ -1,3 +1,3 @@
 ### Integrantes:
-Guilherme Perez Gomes<br>
-Maria Clara Passareli
+- Guilherme Perez Gomes
+- Maria Clara Passareli
